@@ -1,6 +1,6 @@
 # Multivariate Kernel Density Estimation using CUDA
 
-##Introduction
+## Introduction
 This assignment covers kernel density estimation for the distribution of TGC levels in adult women. It is implemented in C++ and utilized CUDA programming to implemnet an optimized density estimate.
 
 
